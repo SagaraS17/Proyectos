@@ -1,2 +1,2 @@
-# Proyectos
-Proyectos para la clase de POO
+# Programa de Práctica
+Programa simple de la sucesión Fibonacci con recursividad
